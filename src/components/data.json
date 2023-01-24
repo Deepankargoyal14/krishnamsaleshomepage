@@ -1,0 +1,83 @@
+[
+    {
+      "name": "Product Categories",
+      "id": 1,
+      "children": [
+        {
+          "name": "Clothes",
+          "id": 11,
+          "children": [
+            { "name": "Men", 
+            "id": 21,
+            "children": [
+                { "name": "Jeans", "id": 51 },
+                { "name": "Tshirts", "id": 52 },
+                { "name": "Shirts", "id": 53 },
+                { "name": "Jerkins", "id": 54 }
+              ] },
+            { "name": "Women", 
+            "id": 22, 
+            "children": [
+                { "name": "Jeans", "id": 55 },
+                { "name": "Tshirts", "id": 56 },
+                { "name": "Shirts", "id": 57 },
+                { "name": "Jerkins", "id": 58 }
+              ] }
+          ]
+        },
+        {
+            "name": "Electronics",
+            "id": 12,
+            "children": [
+                  { "name": "Television", "id": 31 },
+                  { "name": "Washing-Machine", "id": 32 },
+                  { "name": "Mobiles", "id": 33 },
+                  { "name": "Laptops", "id": 34 },
+                  { "name": "smartwatches", "id": 35 }
+                ] 
+        },
+        {
+            "name": "Household items",
+            "id": 13,
+            "children": [
+                  { "name": "kitchen-equip", "id": 36 },
+                  { "name": "screw-drivers", "id": 37 },
+                  { "name": "Beds", "id": 38 },
+                  { "name": "sofa", "id": 39 }
+                ] 
+        },
+        {
+            "name": "Shoes",
+            "id": 14,
+            "children": [
+              { "name": "Men", 
+              "id": 23,
+              "children": [
+                  { "name": "Sports", "id": 59 },
+                  { "name": "Leather", "id": 60 },
+                  { "name": "sneakers", "id": 61 },
+                  { "name": "slippers", "id": 62 }
+                ] },
+              { "name": "Women", 
+                "id": 24, 
+                "children": [
+                    { "name": "sports", "id": 63 },
+                    { "name": "slippers", "id": 64 },
+                    { "name": "lacelessshoes", "id": 65 }
+                  ] }
+              
+            ]
+          },
+          {
+            "name": "Books",
+            "id": 15,
+            "children": [
+                  { "name": "Class10", "id": 40 },
+                  { "name": "Class11", "id": 41 },
+                  { "name": "Class12", "id": 42 },
+                  { "name": "IIT-JEE", "id": 43 }
+                ] }
+        ]
+    }
+]
+  
